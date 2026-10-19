@@ -1,0 +1,15 @@
+{
+  "name": "小日常｜每日行程提醒",
+  "short_name": "小日常",
+  "description": "柔和療癒的每日行程小助手",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f5ee",
+  "theme_color": "#e9efe7",
+  "icons": [
+    {"src":"icons/leaf-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/leaf-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
